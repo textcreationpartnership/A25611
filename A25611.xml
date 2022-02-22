@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the pretended letter to a friend in the country touching the present fears of the nation and from whence they arise &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25611</idno>
+            <idno type="STC">Wing A3433</idno>
+            <idno type="STC">ESTC R26645</idno>
+            <idno type="EEBO-CITATION">09519400</idno>
+            <idno type="OCLC">ocm 09519400</idno>
+            <idno type="VID">43416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1323:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the pretended letter to a friend in the country touching the present fears of the nation and from whence they arise &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: Print show-through with some print illegible.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43416:1"/>
+            <pb n="1" facs="tcp:43416:1" rendition="simple:additions"/>
+            <head>AN ANSWER To the Pretended LETTER, TO A <hi>Friend in the Country:</hi> Touching the preſent Fears of the Nation, and from whence they ariſe, <hi>&amp;c.</hi>
+            </head>
+            <p>HAving by the Poſt Received an unexpected Letter with<g ref="char:EOLhyphen"/>out the ſubſcription of any Name, wherein the Author informs me he had received mine on the 10th of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> laſt paſt, which hath put me to ſome trouble of ſearching my Coppies of that Date, wherein I find three ſeveral Letters, one of which was to the ſuppoſed Author: being concious to my ſelf that I have Correſpondence with none of a debauched, lacivious, leud and ſcandalous Converſation but that perſon (the occaſion of which, hath been the Emergency, of ſome Affairs which now are near a Period) by the ſequel of whoſe Diſcourſe, compared with his former Letters, gives me full aſſurance it is the ſame per<g ref="char:EOLhyphen"/>ſon, and as I have not the Art to imbalm a ſtinking Carrion, nor make Deformity appear Beautiful, ſo am I not able to deſcribe our ſmutty Author in that proper Dreſs that indeed he truly de<g ref="char:EOLhyphen"/>ſerves, but ſhall endeavour to take away ſome of that little Paint that is upon him, that others ſeeing him in his propper Coulours, may have that contempt and ſcorn for him he deſerves. But this I cannot but promiſe, that his Letter that came to my Hands was penn'd ſome Morning after a very debauched Night, when perhaps he might commit a miſtake not in the deſigned Subject of his Letter, but in the ſuperſcription thereof intending it (in<g ref="char:EOLhyphen"/>deed) for ſome Fomenter of diſcord, Pope-poiſoned Mallice and Envy like himſelf, and that his Brains being ſo diſturb'd by the Lees of his Evening Cups that he penn'd e'n any that the De<g ref="char:EOLhyphen"/>vil or his own abuſed and corrupted Sences could prompt him to
+<pb n="2" facs="tcp:43416:2"/>tending to Coat holy writ, for his Atheiſtical aſſeverations, and at the ſame time in plain Terms tells us that Prayer, that high<g ref="char:EOLhyphen"/>ly neceſſary duty is but a meer Art, and ſuch an Art as a Man (provided he have bui a good ſtock of Confidence) may ſoon attain unto, I do not here deſign to particularize any Anſwer to his ſmutty Sheet, looking upon it unworthy any other Anſwer, than to blazen out the Author thereof according to his demerrits which were it not, I am perſwaded ſome of thoſe reverend and worthy perſons it ſeems to villifie would undertake the return<g ref="char:EOLhyphen"/>ing a ſutable and ſeaſonable Anſwer.</p>
+            <p>Firſt in the Preamble to this Paper, the Author ſays he Reſol<g ref="char:EOLhyphen"/>ved upon mature deliberation, to give me ſome ſatisfaction to my Requeſt, whereas the ſame is not only quite Repugnant thereunto, but is a very ſtinck in the Noſtrels of all ſober and impartial Men, no leſs ſhallow and ſilly are his Aſſertions of the preſent Fears and Jealouſies of the Nation to ariſe from the in<g ref="char:EOLhyphen"/>creaſe of Sects and Factions (as he terms them) amongſt us, be<g ref="char:EOLhyphen"/>cauſe forſooth (ſays he) theſe Factions are ſo increaſed ſince the tolleration, by which Branch of his Venomous Diſcourſe I gather that the Authors Ears itch to hear of Clandeſtine Troubles which he would fain lay upon the Shoulders of others having no doubt contrived ſome expedient by what means to patch up his broken Fortunes through the Murder, Rapine and Rebellion, he would fain be a promoter of, or that his Debauchery hath ſo conſumed that ſmall Patrimony of which he was an unworthy poſſeſſor that he calls to mind the high preferment many of thoſe Prentice-belov'd Officers, calld Informers have attained, and looking upon himſelf to be very well quallified for that Office having habitually thoſe neceſſary Vertues of lying, diſſembling, Flatter<g ref="char:EOLhyphen"/>ing and ſwearing to any thing for Gain, whether falſe or true, it makes no matter with him, and for a Crown, would gladly be<g ref="char:EOLhyphen"/>come a Poſt-Knight, 'tis ſuch Monſters as theſe that trouble poor <hi>England,</hi> and ought to be eſteemed by all Lovers of their Coun<g ref="char:EOLhyphen"/>try as unnatural diſturbers of its Peace and welfare. <hi>England</hi> hath two many ſuch Weathercock and Timeſerving Libellers, and Pamphliteers, who make it their chief Study and Drift of their Lives to promote diſcord and Diviſion amongſt his Majeſties faithful Subjects whoſe work it is, if a Man believes it is his Du<g ref="char:EOLhyphen"/>ty ſerve his God, his King, and Country, faithfully to cry him down as a perſon dangerous and diſaffected to the Government; to which end, they traduce them as Fanaticks, Shiſmaticks, or fa<g ref="char:EOLhyphen"/>vourers of them: whereas ſuch may well be compared to <hi>Samp<g ref="char:EOLhyphen"/>ſons Foxes,</hi> which being ty'd Tail to Tail, and the Firebrand of
+<pb n="3" facs="tcp:43416:2"/>bribes in the midſt are enough to ſet a whole Nation on fire.</p>
+            <p>Nay our Author goes on farther, and ſays, the of all this is, becauſe the penal Laws are not put in Execution. Hold, I had al<g ref="char:EOLhyphen"/>moſt forgot! Here comes in Mr. Informers loſs, whoſe Trade by his Majeſties Great Wiſdome and Gracious Favour is much fallen to decay; but wherefore is all this Clamour, and all this Mallice, meerly becauſe his Majeſty was pleaſed for a time to remove the ſore Backs of Proteſtant Diſſentors from under the Fccleſiaſtical Laſh, and to follow his own Royal inclinations in emitting a Declaration of Indulgence, pray let any Reaſonable Man judg, who can more daringly oppoſe the proceedings of ſu<g ref="char:EOLhyphen"/>pream Authority, than ſo impudently to Grudge and Grumble at the Generous and ueceſſary Indulgence of their Prince, for the publick good of his Subjects, as our impudent Author does, for were there a Reward promiſed for the apprehending ſuch whom be ſeems to Callumniate, the vertue thereof might be a <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reaſon to prompt him to confer ſome more liberal Treat <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his debauched <hi>Dallilah;</hi> than in his preſent condition he <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> capacity of performing, and might have divertiſed <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> quaffing his Drunken Cups inſtead of pauſing his ſwim<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon this Subject.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other part of his odious Paper being not worthy any o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Anſwer than to ſcourge him with his own Rod, being look'd upon by all ſober Men of what Judgment ſoever, to be the moſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and brutal Lines that ever iſſued from the Preſs, looking <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like the Vomits and Excrements of a Devil incarnate, than anything proceeding from Morality it ſelf; being highly more neceſſary for all Proteſtants of what Judgment or perfwaſion ſo<g ref="char:EOLhyphen"/>ever, to joyn heart and hand for the Rooting out of the common Enemy of <hi>England,</hi> I mean the Papiſts, (of whom I am afraid our Author is a Member) than by any Callumnies or endeavours whatſoever to be divided and diſtracted amongſt our ſelves, and truly I am of Opinion, that no Diſcenters from the Church whatever, or at leaſt but the moſt inconſiderable part of them, but would hazard their Lives, their Eſtates, and their All, for the preſervation of his Majeſties Royal Perſon and Govern<g ref="char:EOLhyphen"/>ment, againſt thoſe incendiaries of the Pope and Hell, that are plotting our utter Ruine and Deſolation, of which ſome have highly manifeſted their unwearied Induſtry in the late (I may ſay preſent) Plot; and ſhall faithful Miniſters be afraid of praying to their God in fear of ſuch wretches as our late Author or his Ac<g ref="char:EOLhyphen"/>complices, when Papal violence is undermining both Church and State, no it is far better ſwimming in the Water-works of
+<pb n="4" facs="tcp:43416:3"/>Repentance, than burning in the Fireworks of Vengeance.</p>
+            <p>I ſhall only take notice of ſome words near the cloſe of his Letter (or father Rebellious Pamphlet) which tells us that Je<g ref="char:EOLhyphen"/>ſuits come amongſt us under the notion of Presbiterian Miniſters, and what inference think you he draws from thence, why (ſays he) tis impoſſible to root the Jeſuits our unleſs the other party and their Miniſters be ſuppreſſed, had he ſaid unleſs the other party be wholly Rooted our and deſtroyed, I ſhould have thought he had then ſpoke without diſſimulation according to the incli<g ref="char:EOLhyphen"/>nations of his wicked heart, but of this I hope the moſt eminent in the Nation are fully ſatisfied, and grant ſuch a thing hath been found out it does not follow, that that party is the only back-door for the Jeſuits to come in at, to moleſt the Nation, for their ſafety in that ſhelter is ſo Repugnant to Reaſon that they run the greateſt hazard and had as good be in the Cuſtody of a Jailor, as in a Pulpit upon that occaſion if any of the Auditors colud from thence find the ſmell of a Jeſuite, we have heard that the Devil himſelf hath transformed himſelf into an Angel of Light, no wonder then that <hi>Romes</hi> Vipers and Vermine do ſo in<g ref="char:EOLhyphen"/>duſtriouſly uſe all means to propagate their devilliſh Deſigns, but it is worth the Remarking that many Pamphlets which in theſe our times are ſcattered abroad by the Papiſts (ſome of which I could name) have had their main purport to ſcandalize Fanaticks, and Rail againſt Popery, not aſperſing Callumnies on the for<g ref="char:EOLhyphen"/>mer without ſome bitter expreſſions, againſt the Latter, leſt by that means the Vizard be taken off, and they appear to be whom indeed they are, and ſo indefatigable in their under-hand endea<g ref="char:EOLhyphen"/>vours, to bring the Proteſtants together by the Ears, and then their work is done; pray under what notion do theſe Vermine do this, which indeed if ſuffered may prove a more dangerous back-door than the other; of which number I look upon the Author of the pretended Letter to a Frind in the Country to be.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43416:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
